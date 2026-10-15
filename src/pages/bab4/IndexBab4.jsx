@@ -59,7 +59,6 @@ export default function IndexBab4() {
         <>
             <Navbar />
             <HeroSection />
-
             {/* Navigation Tabs */}
             <div className="sticky top-0 z-40 bg-white shadow-sm">
                 <div className="max-w-6xl mx-auto px-4">
